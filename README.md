@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript that can be easily missed. The bug involves attempting to add a number and a string without explicit type coercion. The solution shows the appropriate way to add these types together. This code snippet is useful for illustrating the importance of type safety in TypeScript. 
